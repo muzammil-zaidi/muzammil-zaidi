@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-zaidi&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil-zaidi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil-zaidi" alt="muzammil-zaidi" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/muzammil-zaidi](https://github.com/muzammil-zaidi)
 
 - 📫 How to reach me **muzammil.s3517@gmail.com**
@@ -21,4 +19,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammil-zaidi&show_icons=true&locale=en&layout=compact" alt="muzammil-zaidi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-zaidi&" alt="muzammil-zaidi" /></p>
-
