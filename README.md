@@ -1,8 +1,7 @@
 # Hi 👋, I'm Muzammil Zaidi  
-### A Passionate Computer Science Enthusiast  
+### Aspiring Software Engineer | Passionate Problem Solver 💻🚀  
 
-- 🔭 I’m currently working on an **Object-Oriented Programming (C++)** project.  
-- 🌱 I’m currently learning **SFML and TypeScript**.  
+- 🌱 I’m currently learning **Object-Oriented Programming (C++)**.
 - 💬 Ask me about my **projects, coding journey, and any help regarding programming**.  
 - 📫 How to reach me: **muzammilzaidi@gmail.com**  
 
