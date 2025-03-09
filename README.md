@@ -7,7 +7,7 @@
 
 <p align="center">I’m a CS student passionate about coding, problem-solving, and learning new technologies.</p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Object-Oriented Programming (C++), and Web Development.**  
+- 🌱 I’m currently learning **Object-Oriented Programming (C++)**  
 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/muzammil-zaidi)  
 
