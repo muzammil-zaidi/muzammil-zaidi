@@ -2,33 +2,34 @@
 <h3 align="center">Aspiring Software Engineer | Passionate Problem Solver 💻🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muzammil-zaidi&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil-zaidi" />
+  <img src="https://komarev.com/ghpvc/?username=muzammil-zaidi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">I’m a CS student passionate about coding, problem-solving, and learning new technologies.</p>
 
+---
+
+### 🚀 About Me  
 - 🌱 I’m currently learning **Object-Oriented Programming (C++)**  
-
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/muzammil-zaidi)  
-
 - 📫 How to reach me: **muzammil.s3517@gmail.com**  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/muzammil-zaidi-841237300/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muzammil-zaidi-841237300/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/muzammil_xaidi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://instagram.com/muzammil_xaidi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">⚡ Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -48,11 +49,15 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzammil-zaidi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muzammil-zaidi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-zaidi" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-zaidi&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-zaidi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
