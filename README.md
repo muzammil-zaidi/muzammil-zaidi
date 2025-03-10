@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="Muzammil Zaidi Banner" width="100%" />
+  <img src="blob:https://web.whatsapp.com/242d1e60-2222-4fbc-ad70-1fb9f0e9e1e1" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muzammil Zaidi</h1>
