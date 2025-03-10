@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![WhatsApp Image 2025-03-10 at 12 52 48 PM](https://github.com/user-attachments/assets/d9e56f07-0052-453a-9ef6-5f1fc385fa43)
-" alt="Banner" width="100%" />
+  <img src="C:\Users\PMLS\Downloads\WhatsApp Image 2025-03-10 at 12.52.48 PM.jpeg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muzammil Zaidi</h1>
