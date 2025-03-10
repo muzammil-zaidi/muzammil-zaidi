@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image.png" alt="Muzammil Zaidi Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Muzammil Zaidi</h1>
 <h3 align="center">Aspiring Software Engineer | Passionate Problem Solver 💻🚀</h3>
 
@@ -12,7 +16,7 @@
 ### 🚀 About Me  
 - 🌱 I’m currently learning **Object-Oriented Programming (C++)**  
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/muzammil-zaidi)  
-- 📫 How to reach me: **muzammil.s3517@gmail.com**  
+- 💎 How to reach me: **muzammil.s3517@gmail.com**  
 
 ---
 
