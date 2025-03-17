@@ -13,12 +13,10 @@
 
 ---
 
-<h3 align="center">🚀 About Me</h3>  
-<p align="center">
-  🌱 I’m currently learning <b>Object-Oriented Programming (C++)</b> <br>
-  👨‍💻 All of my projects are available at <a href="https://github.com/muzammil-zaidi">GitHub Repositories</a> <br>
-  💎 How to reach me: <b>muzammil.s3517@gmail.com</b>
-</p>  
+### 🚀 About Me  
+- 🌱 I’m currently learning **Object-Oriented Programming (C++)**  
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/muzammil-zaidi)  
+- 💎 How to reach me: **muzammil.s3517@gmail.com**  
 
 ---
 
