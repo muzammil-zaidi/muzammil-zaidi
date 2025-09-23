@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me  
-- 🌱 I’m currently learning Data Structures and Algorithms (C++)**  
+- 🌱 I’m currently learning Data Structures and Algorithms (C++)
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/muzammil-zaidi)  
 - 💎 How to reach me: **muzammil.s3517@gmail.com**  
 
