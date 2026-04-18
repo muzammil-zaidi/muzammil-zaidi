@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me  
-- 🌱 I’m currently learning Data Structures and Algorithms (C++)
+- 🌱 I’m currently learning Database Systems (DBS)
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/muzammil-zaidi)  
 - 💎 How to reach me: **muzammil.s3517@gmail.com**  
 
@@ -43,6 +43,12 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
@@ -56,7 +62,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
-
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
