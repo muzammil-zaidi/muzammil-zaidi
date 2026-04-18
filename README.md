@@ -22,15 +22,11 @@
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/muzammil-zaidi-841237300/" target="_blank">
+  <a href="https://www.linkedin.com/in/muzammil-zaidi-841237300/" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/muzammil_xaidi" target="_blank">
+  </a><a href="https://instagram.com/muzammil_xaidi" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/muzammil_s3517" target="_blank">
+  </a><a href="https://www.hackerrank.com/profile/muzammil_s3517" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
   </a>
 </p>
@@ -39,38 +35,23 @@
 
 <h3 align="center">⚡ Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank">
+  <a href="https://www.cprogramming.com/" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
+  </a><a href="https://www.w3schools.com/cpp/" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank">
+  </a><a href="https://www.python.org/" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  </a><a href="https://www.w3schools.com/css/" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank">
+  </a><a href="https://www.w3.org/html/" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank">
+  </a><a href="https://reactjs.org/" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   </a>
 </p>
+
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
