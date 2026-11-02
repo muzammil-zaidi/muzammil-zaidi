@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I'm currently learning Database Systems (DBS)
+- 🌱 I'm currently learning Computer Networks (CN)
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/muzammil-zaidi)
 - 💎 How to reach me: **[muzammil.s3517@gmail.com](mailto:muzammil.s3517@gmail.com)**
 
